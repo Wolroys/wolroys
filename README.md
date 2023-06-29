@@ -1,4 +1,4 @@
-<h1> ### Hello there👋 </h1>
+### Hello there👋
 
 <p>I am from: Rostov-on-Don State, Russia</p>
 <p>Currently learning: Java, Spring Framework, REST API </p>
